@@ -74,7 +74,7 @@ Toda la documentación relacionada con los resultados, conclusiones y recomendac
 
 # Data Analysis for Employee Retention and Job Satisfaction
 
-This project aims to analyze employee data from ABC Corporation to identify key factors influencing job satisfaction and talent retention. Our company, **4ward Thinkers**, uses exploratory data analysis (EDA) and visualizations to provide recommendations for improving the work environment and reducing turnover.
+This project aims to analyze employee data from ABC Corporation to identify key factors influencing job satisfaction and talent retention. Our company, **4ward Thinkers**, uses exploratory data analysis (EDA) and visualizations to provide recommendations for improving the work environment and reducing attrition.
 
 ## 🚀 Repository Structure
 
@@ -88,9 +88,9 @@ The structure of the repository is as follows:
 │ ├── empleados_genero.png
 | ├── salary.png
 │ └── salary_gender_boxplot.png
-├── EDA.ipynb # Notebook con el análisis exploratorio de los datos (EDA)
+├── EDA.ipynb 
 ├── doc_en.md 
-├── doc.md # Notebook con la documentación general del proyecto
+├── doc.md 
 └── README.md
 ```
 ## 🗒️ File Description
