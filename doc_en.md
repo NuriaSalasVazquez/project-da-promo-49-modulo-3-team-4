@@ -104,8 +104,8 @@ The initial scope of the project focuses on **identifying key patterns and facto
 
 ### 3. Key Insights
 
-![Percentage of employees by generation](img/empleados_gen.png)  
-![Employees by gender](img/empleados_genero.png)
+![Percentage of employees by generation](img/employee_generat.png)  
+![Employees by gender](img/employee_gender.png)
 
 Based on data analysis, visualizations, and key comparisons, several relevant factors were identified that may directly influence job satisfaction and talent retention within the company:
 
