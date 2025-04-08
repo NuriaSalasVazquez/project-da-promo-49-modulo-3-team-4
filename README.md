@@ -12,6 +12,7 @@ Este proyecto tiene como objetivo analizar los datos de empleados de la empresa 
 ## 🚀 Estructura del Repositorio
 
 La estructura del repositorio es la siguiente:
+
 ```
 ├── files/ 
 │ ├── hr_raw_data.csv
@@ -21,9 +22,10 @@ La estructura del repositorio es la siguiente:
 │ ├── empleados_genero.png
 | ├── salary.png
 │ └── salary_gender_boxplot.png
-├── EDA.ipynb # Notebook con el análisis exploratorio de los datos (EDA)
+├── EDA.ipynb 
 ├── doc_en.md 
-├── doc.md # Notebook con la documentación general del proyecto
+├── doc.md 
+├── 4wardthinkers.pdf 
 └── README.md
 ```
 
@@ -91,6 +93,7 @@ The structure of the repository is as follows:
 ├── EDA.ipynb 
 ├── doc_en.md 
 ├── doc.md 
+├── 4wardthinkers.pdf 
 └── README.md
 ```
 ## 🗒️ File Description
